@@ -1,0 +1,29 @@
+sku,title,category,subcategory,listing_type,sold_by,price,weekly_units_cv,notes
+ACC-3P-01,20W USB-C Fast Wall Charger,electronics accessories,charger,3P,Example Seller A,14.99,,everyday mid-price charger
+ACC-3P-02,30W GaN USB-C Charger,electronics accessories,charger,3P,Example Seller B,24.99,,dearer fast charger
+ACC-3P-03,2-pack USB-C to USB-C Cable 1m,electronics accessories,cable,3P,Example Seller A,8.99,,low-price everyday cable
+ACC-3P-04,2m Braided USB-C Cable,electronics accessories,cable,3P,Example Seller C,11.99,,
+ACC-3P-05,10000mAh Power Bank,electronics accessories,power bank,3P,Example Seller B,19.99,,mid-price everyday power bank
+ACC-3P-06,20000mAh Power Bank with Display,electronics accessories,power bank,3P,Example Seller D,29.99,,
+ACC-3P-07,Silicone Phone Case,electronics accessories,case,3P,Example Seller A,9.99,,
+ACC-3P-08,Clear Protective Phone Case,electronics accessories,case,3P,Example Seller E,12.99,,
+ACC-3P-09,Wireless Earbuds Standard,electronics accessories,earbuds,3P,Example Seller B,29.99,,
+ACC-3P-10,Wireless Earbuds Holiday Gift Bundle,electronics accessories,earbuds,3P,Example Seller C,49.99,0.60,seasonal gift bundle; higher demand swing
+ACC-3P-11,Tempered Glass Screen Protector 2-pack,electronics accessories,glass,3P,Example Seller A,7.99,,
+ACC-3P-12,15W Wireless Charging Pad,electronics accessories,charging pad,3P,Example Seller F,16.99,,
+ACC-3P-13,Car USB-C Charger 30W,electronics accessories,car charger,3P,Example Seller E,12.99,,
+ACC-3P-14,Laptop USB-C Hub 6-in-1,electronics accessories,hub,3P,Example Seller D,34.99,0.35,
+ACC-3P-15,Bluetooth Tracker 2-pack,electronics accessories,tracker,3P,Example Seller F,22.99,,
+ACC-3P-16,Over-ear Travel Headphones,electronics accessories,earbuds,3P,Example Seller C,39.99,0.55,seasonal travel line; higher demand swing
+ACC-3P-17,Budget USB-A to USB-C Cable,electronics accessories,cable,3P,Example Seller A,6.49,,cheapest cable in the sample
+ACC-3P-18,Dual-port 20W Wall Charger,electronics accessories,charger,3P,Example Seller B,18.99,,
+ACC-1P-01,Own-brand 20W USB-C Charger,electronics accessories,charger,1P,Marketplace own brand,12.99,,
+ACC-1P-02,Own-brand USB-C Cable 1m,electronics accessories,cable,1P,Marketplace own brand,6.99,,
+ACC-1P-03,Own-brand 10000mAh Power Bank,electronics accessories,power bank,1P,Marketplace own brand,17.99,,
+ACC-1P-04,Own-brand Silicone Phone Case,electronics accessories,case,1P,Marketplace own brand,7.99,,
+ACC-1P-05,Own-brand Wireless Earbuds,electronics accessories,earbuds,1P,Marketplace own brand,24.99,,
+ACC-1P-06,Own-brand 15W Wireless Charging Pad,electronics accessories,charging pad,1P,Marketplace own brand,14.99,,
+ACC-1P-07,Own-brand Car USB-C Charger,electronics accessories,car charger,1P,Marketplace own brand,9.99,,
+ACC-1P-08,Own-brand Tempered Glass Screen Protector,electronics accessories,glass,1P,Marketplace own brand,5.99,,
+ACC-1P-09,Own-brand USB-C Hub 6-in-1,electronics accessories,hub,1P,Marketplace own brand,29.99,,
+ACC-1P-10,Own-brand Bluetooth Tracker,electronics accessories,tracker,1P,Marketplace own brand,14.99,,
